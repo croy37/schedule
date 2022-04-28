@@ -2,7 +2,7 @@
     "name": "panlatent/schedule",
     "description": "Schedule plugin for CraftCMS 3",
     "type": "craft-plugin",
-    "version": "0.4.1",
+    "version": "0.5.0",
     "keywords": [
         "craft",
         "cms",
@@ -28,7 +28,7 @@
         "craftcms/cms": "^3.1.0",
         "nesbot/carbon": "^1.22 || ^2.10",
         "omnilight/yii2-scheduling": "^1.1",
-        "symfony/process": "^4.2",
+        "symfony/process": "^4.0 || ^5.0",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
         "panlatent/cron-expression-descriptor": "^1.0.5"
     },
